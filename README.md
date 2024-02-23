@@ -15,6 +15,9 @@ Simply move your mouse across the screen to see the particles react and create p
 Clone this repository and open `index.html` in your browser to start interacting with the particle galaxy:
 git clone git@github.com:ashishprajapati/dynamic-particle-galaxy.git
 
+## Screenshot
+<img width="934" alt="Dynamic Particle Galaxy" src="https://github.com/ashishprajapati/dynamic-particle-galaxy/assets/5468981/e4d8ea01-b7e9-4492-aebc-d81a659de297">
+
 ## Contributing
 Feel free to fork this project and submit pull requests with improvements or new features.
 
